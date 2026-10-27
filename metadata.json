@@ -1,0 +1,8 @@
+{
+  "name": "Remix Acuity Brands | Customer 360 Intelligence",
+  "description": "Executive-grade Customer 360 Business Intelligence POC and Persona-Aware Gemini AI Agent for Acuity Brands Lighting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
